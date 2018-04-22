@@ -1,0 +1,20 @@
+<%@ page language="java" pageEncoding="UTF-8"%>
+<!DOCTYPE HTML>
+<html>
+  <head>
+    <title>消息提示</title>
+     <script type="text/javascript">
+  window.onload = function(){
+	  
+	  alert("文件上传成功！");
+	
+  }  
+  
+  </script>
+  </head>
+  
+  <body>
+      
+  </body>
+ 
+</html>
